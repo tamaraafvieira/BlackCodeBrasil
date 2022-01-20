@@ -9,8 +9,8 @@ using ProjetoFinal.Data;
 namespace ProjetoFinal.Migrations
 {
     [DbContext(typeof(ProjetoFinalContext))]
-    [Migration("20220109165639_Talentos")]
-    partial class Talentos
+    [Migration("20220120224521_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -2,7 +2,7 @@
 
 namespace ProjetoFinal.Migrations
 {
-    public partial class Talentos : Migration
+    public partial class InitialCreate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

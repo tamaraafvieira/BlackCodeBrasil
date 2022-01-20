@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TbOrdMwQCdZ4w0xgxTkWgWk6ikjtO8MHzWCrzGhI70TnYOaRNSzs4ObmCusaDM7+AVsW8vnRqJgUZUMdofgj+w==",
+  "dgSpecHash": "QgoL+cqzeBOeFyWbc2Myj8QqiO9H+eBXNSZe6H3Ey2GrX/e8kjJheFZVK/VLqe68WTk8PA+d39WY0N6aOpiuNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\izaqu\\OneDrive\\Área de Trabalho\\BlackCode\\ProjetoFinal\\ProjetoFinal\\ProjetoFinal.csproj",
+  "projectFilePath": "C:\\Users\\izaqu\\OneDrive\\Área de Trabalho\\BlackCode\\ProjetoFinal\\projetofinal\\ProjetoFinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\izaqu\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
     "C:\\Users\\izaqu\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
@@ -167,8 +167,8 @@
     "C:\\Users\\izaqu\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\izaqu\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\izaqu\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\izaqu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
-    "C:\\Users\\izaqu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\izaqu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\izaqu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": [
     {
